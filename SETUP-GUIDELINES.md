@@ -3,6 +3,10 @@
 Welcome to the workshop! Please follow these OS-specific setup instructions **before the session begins**.
 
 ---
+## Out of Scope
+- Instructions for opening a terminal.
+- Could add snap command instead it is Microsoft's official (for VS Code in Ubuntu)
+- Github Creds, gh must be optionsal
 
 ## ✅ Pre-Checks (Run These First)
 

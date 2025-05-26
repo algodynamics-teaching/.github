@@ -11,11 +11,24 @@
 
 ## Fixes
 
-> [!CAUTION]
-> In **Worksheet 2**, _Example 3_
-> Use the following definition, as the question is not properly defined in the print out version:
+> [!IMPORTANT]
+> ### Instructions to Keep in Mind Throughout the Workshop
 >
->      `f(n) = n - 1 "otherwise"`
+> Dear Participants,
+>
+> Please refer to the table below for key instructions to follow during the workshop:
+>
+> | **Instruction Area**                                      |  **Details**                                                                                     |
+>|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+>| **ID on Worksheets/Quizzes**                              | The ID at the top is your **token number**.                                                     |
+>| **General Instructions**                                  | Follow the instructions at the **end of Page 1** and with each question carefully.              |
+>| **Concept Feedback Sections**                             | In **"Concepts I Understood Well"** and **"Questions I Still Have"**, give honest feedback. This helps us improve the material and address any misconceptions. |
+>| **Need Help?**                                             | Ask a **facilitator** if you have any questions or doubts.                                      |
+>
+>Thank you for your attention and participation!
+>
+>— Workshop Team
+
 
 
 ## 🌐 Quick Access Links
