@@ -11,7 +11,8 @@
 
 ## 🌐 Quick Access Links
 
-> Tryout Examples: [Completly online & local try-outs](https://algodynamics-teaching.github.io/exercise-on-web/lab/index.html)
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.Tryout Examples: [Completly online & local try-outs](https://algodynamics-teaching.github.io/exercise-on-web/lab/index.html)
 
 > Github Classroom Assignment: [Mapcode Exercises](https://classroom.github.com/a/eJfmm8iE)
 
