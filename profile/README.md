@@ -14,12 +14,8 @@
 > [!CAUTION]
 > In **Worksheet 2**, _Example 3_
 > Use the following definition, as the question is not properly defined in the print out version:
-> $$
->     F(n) = \begin{cases}
->    n & \text{if } n = 0 \\
->    n - 1 & \text{otherwise} \\
->    \end{cases}
-> $$
+>
+>      `f(n) = n - 1 "otherwise"`
 
 
 ## 🌐 Quick Access Links
