@@ -16,7 +16,7 @@
 |                | 📱 WhatsApp Group                                                                                                         | 📁 Other Resources                                                                                                                        |
 |----------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | **Link**       | [Join via Link](https://chat.whatsapp.com/H7jGAGg83Ci0EJxFqGsnAI)                                                        | [Access on Google Drive](https://drive.google.com/drive/folders/1d-edAeLWzPGz0nRxBU1ZHY5lDQRJm-T8?usp=sharing)                           |
-| **QR Code**    | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/whatsapp-participants-qr.jpg" alt="Whatsapp QR" />                                       | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/google-drive-qr.png" alt="Drive QR"/>                                                                   |
+| **QR Code**    | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/whatsapp-participants-qr.jpg?raw=true" alt="Whatsapp QR" style="max-height: 400px;"/>                                       | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/google-drive-qr.png?raw=true" alt="Drive QR" style="max-height: 400px;"/>                                                                   |
 > 🔒 These links are intended for participants only.
 
 
