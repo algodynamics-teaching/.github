@@ -48,7 +48,7 @@ Ensure the following are set up **before Day 2**:
 - ✅ VS Code with Python Extension installed
 - ✅ Assignment repo cloned & open
 
-📄 Full setup instructions: [SETUP-GUIDELINES.md](https://github.com/algodynamics-teaching/resources/blob/main/SETUP-GUIDELINES.md)
+📄 Full setup instructions: [SETUP-GUIDELINES.md](https://github.com/algodynamics-teaching/.github/blob/main/SETUP-GUIDELINES.md)
 
 ---
 
