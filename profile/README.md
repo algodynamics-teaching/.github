@@ -11,9 +11,9 @@
 
 ## 🌐 Quick Access Links
 
-> Github Classroom Assignment: To be announced
+> Github Classroom Assignment: [Mapcode Exercises](https://classroom.github.com/a/eJfmm8iE)
 
-|                | 📱 WhatsApp Group                                                                                                         | 📁 Other Resources                                                                                                                        |
+|                | 📱 WhatsApp Group For Q/A                                                                               | 📁 Other Resources                                                                                                                        |
 |----------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | **Link**       | [Join via Link](https://chat.whatsapp.com/H7jGAGg83Ci0EJxFqGsnAI)                                                        | [Access on Google Drive](https://drive.google.com/drive/folders/1d-edAeLWzPGz0nRxBU1ZHY5lDQRJm-T8?usp=sharing)                           |
 | **QR Code**    | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/whatsapp-participants-qr.jpg?raw=true" alt="Whatsapp QR" style="max-height: 400px;"/>                                       | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/google-drive-qr.png?raw=true" alt="Drive QR" style="max-height: 400px;"/>                                                                   |
@@ -26,7 +26,7 @@
 
 **📅 Dates:** 26–31 May 2025
 
-**📍 Venue:** GITAM University, Visakhapatnam
+**📍 Venue:** GITAM Deemed to be University, Hyderabad
 
 **🕘 Daily Schedule:**
 ```
@@ -49,6 +49,19 @@ Ensure the following are set up **before Day 2**:
 - ✅ Assignment repo cloned & open
 
 📄 Full setup instructions: [SETUP-GUIDELINES.md](https://github.com/algodynamics-teaching/.github/blob/main/SETUP-GUIDELINES.md)
+
+---
+
+## 🧪 Schedule & Activities
+
+Each day combines lectures, worksheets, code labs, and quizzes.
+
+🗂️ Full calendar: [GITAM-FDP May 2025 Calendar](https://docs.google.com/spreadsheets/d/1xSrrYiOOqtzRV0S22pWsUqcUYSoscobBU9CgRXnDNpc/edit?usp=sharing)
+
+---
+
+## 📚 Course Materials
+- **Lecture Notes:** [Mapcode Lecture Notes](https://drive.google.com/drive/folders/1d-edAeLWzPGz0nRxBU1ZHY5lDQRJm-T8?usp=sharing)
 
 ---
 
