@@ -38,6 +38,17 @@ Afternoon: 13:45 – 16:30 (Break: 15:15–15:30)
 
 ---
 
+## 📝 Reference: Consent for Academic Research
+
+This workshop is part of ongoing academic research by the instructor and team at GITAM University. No personal identifiers are collected, and any data used in publications will be anonymized and aggregated.
+
+> **Consent for participation in research was already collected at the start of the workshop.**  
+> This section is for reference only. No further action is required unless you wish to opt out.
+
+If you do **NOT** wish your worksheet or assignment data to be used for research, please contact the instructor to opt out. Otherwise, your original consent preference remains in effect.
+
+---
+
 ## 🛠 Prerequisites
 
 Ensure the following are set up **before Day 2**:
