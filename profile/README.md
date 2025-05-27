@@ -29,6 +29,7 @@
 > Tryout Examples: [Completly online & local try-outs](https://algodynamics-teaching.github.io/exercise-on-web/lab/index.html)
 
 > Github Classroom Assignment: [Mapcode Exercises](https://classroom.github.com/a/eJfmm8iE)
+> Reference Book: [An Introduction to Mathematical Computer Science](https://www.amazon.in/Introduction-Mathematical-Computer-Science-Viswanath/dp/8173716307)
 
 |                | 📱 WhatsApp Group For Q/A                                                                               | 📁 Other Resources                                                                                                                        |
 |----------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
