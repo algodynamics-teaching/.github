@@ -9,26 +9,17 @@
 
 ---
 
-## Fixes
-
-> [!IMPORTANT]
-> ### Instructions to Keep in Mind Throughout the Workshop
->
-> Dear Participants,
->
-> Please refer to the table below for key instructions to follow during the workshop:
->
-> | **Instruction Area**                                      |  **Details**                                                                                     |
->|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------|
->| **ID on Worksheets/Quizzes**                              | The ID at the top is your **token number**.                                                     |
->| **General Instructions**                                  | Follow the instructions at the **end of Page 1** and with each question carefully.              |
->| **Concept Feedback Sections**                             | In **"Concepts I Understood Well"** and **"Questions I Still Have"**, give honest feedback. This helps us improve the material and address any misconceptions. |
->| **Need Help?**                                             | Ask a **facilitator** if you have any questions or doubts.                                      |
->
->Thank you for your attention and participation!
->
->— Workshop Team
-
+> [!10 steps for algorithm design]
+> - $(I)$ What are the legal inputs for the program?
+> - $(A)$ What are all the possible outputs of the program?
+> - $(f)$ How exactly is the output of the program related to the input?
+> - (Resource Constraints) What are the resource constraints for the program in terms of the allowed types of variables, guards, and commands?
+> - $(X)$ What are all the variables that are needed for the program?
+> - $(\rho)$ How are the variables to be initialized?
+> - $(\pi)$ How is the output of the program to be read?
+> - $(F)$ How should the program change the values of the variables in one step?
+> - Does the program terminate for every legal input?
+> - If the program terminates for a legal input, is the output correct?
 
 
 ## 🌐 Quick Access Links
