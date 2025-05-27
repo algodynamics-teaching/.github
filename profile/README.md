@@ -9,17 +9,18 @@
 
 ---
 
-> [!10 steps for algorithm design]
-> - $(I)$ What are the legal inputs for the program?
-> - $(A)$ What are all the possible outputs of the program?
-> - $(f)$ How exactly is the output of the program related to the input?
-> - (Resource Constraints) What are the resource constraints for the program in terms of the allowed types of variables, guards, and commands?
-> - $(X)$ What are all the variables that are needed for the program?
-> - $(\rho)$ How are the variables to be initialized?
-> - $(\pi)$ How is the output of the program to be read?
-> - $(F)$ How should the program change the values of the variables in one step?
-> - Does the program terminate for every legal input?
-> - If the program terminates for a legal input, is the output correct?
+> [!IMPORTANT]
+> 10 Steps of algorithm design:
+>  - $(I)$ What are the legal inputs for the program?
+>  - $(A)$ What are all the possible outputs of the program?
+>  - $(f)$ How exactly is the output of the program related to the input?
+>  - (Resource Constraints) What are the resource constraints for the program in terms of the allowed types of variables, guards, and commands?
+>  - $(X)$ What are all the variables that are needed for the program?
+>  - $(\rho)$ How are the variables to be initialized?
+>  - $(\pi)$ How is the output of the program to be read?
+>  - $(F)$ How should the program change the values of the variables in one step?
+>  - Does the program terminate for every legal input?
+>  - If the program terminates for a legal input, is the output correct?
 
 
 ## 🌐 Quick Access Links
