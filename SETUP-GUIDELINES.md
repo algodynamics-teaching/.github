@@ -52,6 +52,7 @@ If any of these fail, follow the relevant setup sections below.
   ```bash
   python --version
   ```
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=NES0LRUFMBE)
 
 ---
 
@@ -65,6 +66,7 @@ If any of these fail, follow the relevant setup sections below.
   git config --global user.name "Your Name"
   git config --global user.email "you@example.com"
   ```
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=iYkLrXobBbA)
 
 ---
 
@@ -88,6 +90,7 @@ If any of these fail, follow the relevant setup sections below.
   - Protocol: `HTTPS`
   - Login with: Web browser (recommended)
   This authorizes GitHub CLI to access your repositories, including GitHub Classroom.
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=PPOL_hgMMLk)
 
 ---
 
@@ -101,7 +104,7 @@ If any of these fail, follow the relevant setup sections below.
   * ⭕ (Optional) Jupyter
   * ⭕ (Optional) Pylint
 
-</details>
+</details>https://www.youtube.com/watch?v=PPOL_hgMMLk
 
 ---
 
@@ -117,6 +120,7 @@ If any of these fail, follow the relevant setup sections below.
   ```bash
   python3 --version
   ```
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=3-sPfR4JEQ8)
 
 ---
 
@@ -138,6 +142,7 @@ If any of these fail, follow the relevant setup sections below.
   git config --global user.name "Your Name"
   git config --global user.email "you@example.com"
   ```
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=B4qsvQ5IqWk&pp=0gcJCdgAo7VqN5tD)
 
 ---
 ### 🔹 3. Install GitHub CLI
@@ -162,6 +167,7 @@ If any of these fail, follow the relevant setup sections below.
   - Protocol: `HTTPS`
   - Login with: Web browser (recommended)
   This authorizes GitHub CLI to access your repositories, including GitHub Classroom.
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=PPOL_hgMMLk)
 
 ---
 
@@ -194,7 +200,7 @@ If any of these fail, follow the relevant setup sections below.
   sudo apt update
   sudo apt install python3
   ```
-
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=yKa0KOdQDTs)
 ---
 
 ### 🔹 2. Install Git
@@ -215,6 +221,7 @@ If any of these fail, follow the relevant setup sections below.
   git config --global user.name "Your Name"
   git config --global user.email "you@example.com"
   ```
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=qAiO4Sg5oQE)
 
 ---
 ### 🔹 3. Install GitHub CLI
@@ -233,7 +240,7 @@ If any of these fail, follow the relevant setup sections below.
   ```bash
   gh auth login
   ```
-
+* You could also follow this video tutorial, which does the same thing:- [youtube.com](https://www.youtube.com/watch?v=PPOL_hgMMLk)
 ---
 
 ### 🔹 4. Install VS Code
