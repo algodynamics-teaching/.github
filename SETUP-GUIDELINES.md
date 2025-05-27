@@ -104,7 +104,7 @@ If any of these fail, follow the relevant setup sections below.
   * ⭕ (Optional) Jupyter
   * ⭕ (Optional) Pylint
 
-</details>https://www.youtube.com/watch?v=PPOL_hgMMLk
+</details>
 
 ---
 
