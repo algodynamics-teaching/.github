@@ -32,12 +32,14 @@
 
 > Reference Book: [An Introduction to Mathematical Computer Science](https://www.amazon.in/Introduction-Mathematical-Computer-Science-Viswanath/dp/8173716307)
 
-> Google form link for code submissions: [Google Form] (https://forms.gle/6SdVspSUa129yRaQA) 
+> [!CRITICAL]
+> Google form link for code & worksheet submissions: [Google Form](https://forms.gle/6SdVspSUa129yRaQA) 
 
-|                | 📱 WhatsApp Group For Q/A                                                                               | 📁 Other Resources                                                                                                                        |
-|----------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link**       | [Join via Link](https://chat.whatsapp.com/H7jGAGg83Ci0EJxFqGsnAI)                                                        | [Access on Google Drive](https://drive.google.com/drive/folders/1d-edAeLWzPGz0nRxBU1ZHY5lDQRJm-T8?usp=sharing)                           |
-| **QR Code**    | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/whatsapp-participants-qr.jpg?raw=true" alt="Whatsapp QR" style="max-height: 400px;"/>                                       | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/google-drive-qr.png?raw=true" alt="Drive QR" style="max-height: 400px;"/>                                                                   |
+|                | 📱 WhatsApp Group For Q/A                                                                               | 📁 Other Resources                                                                                                                        |    Feedback form <br /> (~15 mins)  |
+|----------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------| --- |
+| **Link**       | [Join via Link](https://chat.whatsapp.com/H7jGAGg83Ci0EJxFqGsnAI)                                                        | [Access on Google Drive](https://drive.google.com/drive/folders/1d-edAeLWzPGz0nRxBU1ZHY5lDQRJm-T8?usp=sharing)                           |   [Post-FDP Workshop feedback](https://forms.gle/LtmyWuPfx7Zo9VnM8) |
+| **QR Code**    | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/whatsapp-participants-qr.jpg?raw=true" alt="Whatsapp QR" style="width: 280px;"/>                                       | <img src="https://github.com/algodynamics-teaching/.github/blob/main/assets/google-drive-qr.png?raw=true" alt="Drive QR" style="width: 280px;"/>                                                                   | <img src="https://github.com/user-attachments/assets/e1855250-1f77-47c7-b4db-2e7ce106b3a0" alt="Feedback QR" style="width: 400px;"/>     |
+
 > 🔒 These links are intended for participants only.
 
 
