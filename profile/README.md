@@ -32,7 +32,7 @@
 
 > Reference Book: [An Introduction to Mathematical Computer Science](https://www.amazon.in/Introduction-Mathematical-Computer-Science-Viswanath/dp/8173716307)
 
-> [!CRITICAL]
+> [!IMPORTANT]
 > Google form link for code & worksheet submissions: [Google Form](https://forms.gle/6SdVspSUa129yRaQA) 
 
 |                | 📱 WhatsApp Group For Q/A                                                                               | 📁 Other Resources                                                                                                                        |    Feedback form <br /> (~15 mins)  |
